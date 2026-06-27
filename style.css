@@ -59,7 +59,11 @@ body {
     transform: scale(1.1);
 }
 
-span {
+.logo span,
+.home-content span,
+.about-content span,
+.heading span,
+.contact h2 span {
     background: linear-gradient(
         270deg,
         #6200ff 10%,
